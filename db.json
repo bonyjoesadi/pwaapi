@@ -1,0 +1,23 @@
+{
+"products":
+[{"id":1,"name":"Blue-faced booby","category":"Aquamarine"},
+{"id":2,"name":"Great cormorant","category":"Goldenrod"},
+{"id":3,"name":"Bengal vulture","category":"Turquoise"},
+{"id":4,"name":"Woolly-necked stork","category":"Mauv"},
+{"id":5,"name":"Bennett's wallaby","category":"Violet"},
+{"id":6,"name":"Field flicker","category":"Red"},
+{"id":7,"name":"Anaconda (unidentified)","category":"Fuscia"},
+{"id":8,"name":"Mudskipper (unidentified)","category":"Green"},
+{"id":9,"name":"Red deer","category":"Pink"},
+{"id":10,"name":"Owl, madagascar hawk","category":"Blue"},
+{"id":11,"name":"Egyptian vulture","category":"Green"},
+{"id":12,"name":"Manatee","category":"Teal"},
+{"id":13,"name":"Owl, white-browed","category":"Puce"},
+{"id":14,"name":"Siskin, pine","category":"Yellow"},
+{"id":15,"name":"Woodrat (unidentified)","category":"Crimson"},
+{"id":16,"name":"Scaly-breasted lorikeet","category":"Green"},
+{"id":17,"name":"Crane, sarus","category":"Maroon"},
+{"id":18,"name":"Antelope ground squirrel","category":"Indigo"},
+{"id":19,"name":"White-lipped peccary","category":"Crimson"},
+{"id":20,"name":"Little brown bat","category":"Crimson"}]
+}
